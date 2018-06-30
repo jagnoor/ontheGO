@@ -1,14 +1,13 @@
 //Initial Global Variables
 
-
 //Initialize Firebase
 var config = {
-    apiKey: "AIzaSyDf2FIuyY6UKCUuCpihnYA-1OSWKSEe9jY",
-    authDomain: "groupproject1-955fc.firebaseapp.com",
-    databaseURL: "https://groupproject1-955fc.firebaseio.com",
-    projectId: "groupproject1-955fc",
-    storageBucket: "groupproject1-955fc.appspot.com",
-    messagingSenderId: "1029016705388"
+  apiKey: "AIzaSyDf2FIuyY6UKCUuCpihnYA-1OSWKSEe9jY",
+  authDomain: "groupproject1-955fc.firebaseapp.com",
+  databaseURL: "https://groupproject1-955fc.firebaseio.com",
+  projectId: "groupproject1-955fc",
+  storageBucket: "groupproject1-955fc.appspot.com",
+  messagingSenderId: "1029016705388"
 };
 firebase.initializeApp(config);
 
